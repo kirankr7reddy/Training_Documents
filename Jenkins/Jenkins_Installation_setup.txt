@@ -73,11 +73,9 @@ Launch an Ubuntu Machine : v22.04
 
 sudo -i
 
-apt update -y 
-
 Install Java ::
 
-sudo apt update -y 
+apt update -y 
 sudo apt install openjdk-17-jre -y
 java -version						
 
